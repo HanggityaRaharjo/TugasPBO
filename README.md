@@ -1,3 +1,3 @@
 # TugasPBO
-Nama: Hanggitya Raharjo
+Nama: Hanggitya Raharjo \
 NIM : 1187050040
